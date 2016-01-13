@@ -1,0 +1,11 @@
+Enter the number of nodes in the graph
+8
+Enter the adjacency matrix
+0 0 0 1 1 0 0 0
+0 0 1 0 0 0 0 0
+0 0 0 0 0 1 1 0
+0 0 0 0 0 1 0 1
+0 0 0 0 0 0 1 0
+0 0 0 0 0 0 1 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
